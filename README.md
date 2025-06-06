@@ -162,7 +162,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 -->
 
-<!-- CONTACTO -->
+<!-- CONTACTO 
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
@@ -182,6 +182,9 @@
 
 <a href="https://instagram.com/anderson_mend53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/insgram.svg" alt="anderson_mend53" height="30" width="40" /></a>
 </p>
+
+-->
+
 
 
 <!-- STATS Y LENGUAJES MAS USADOS
