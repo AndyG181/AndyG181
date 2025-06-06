@@ -1,7 +1,7 @@
-<!-- RAINBOW LINE TOP -->
+<!-- LINEA DE COLORES -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!-- GIF HEADER -->
+<!-- GIF -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <div align="center">
@@ -24,6 +24,7 @@
 ---
 
 <div align="center">
+<!--
    <h3> 👋🏽 みなさん、こんにちは。I'm Computer Engineering Student - Grad Soon  </h3>
    <h4> reaching my goals and dreams with a beauti vibes </h4>
 <br>
@@ -35,7 +36,7 @@
   🏊🏽‍♂️ Swimming 
   🐈 Michii 🍵 Matcha
 </pre>
-
+-->
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
 🎓 &nbsp;Actualmente soy estudiante de Ingeniería de Computación en la Universidad Autónoma del Estado de México.\
