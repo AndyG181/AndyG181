@@ -225,28 +225,7 @@ Last Edited on: 26/02/2025
   </a>
 </p>
 
-<div id="user-content-toc"> 
-  <ul align="center"> 
-    <summary>
-      <div>
-        <div style="width: 180px; height: 200px; overflow: hidden; display: inline-block;">
-          <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" 
-               style="margin-left: -50px; width: 150px;"/>
-        </div>
-        <h1 style="display: inline-block">Hola 👋, Soy Kenneth</h1>
-      </div>
-    </summary> 
-  </ul> 
-</div> 
 
-
-
----
-
-<img align="right" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" width="200" />
-
-
----
 <!--
 
 ## Spotify Reproduciendo 🎧 
@@ -259,7 +238,3 @@ Last Edited on: 26/02/2025
 
 -->
 ---
-
-
-
-Last Edited on: 06/06/2025
