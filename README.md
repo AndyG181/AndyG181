@@ -254,7 +254,7 @@ Last Edited on: 26/02/2025
   <a href="https://open.spotify.com/user/fwetk88u063oqdz3b4ongxozr"> 
     <img src="https://spotify-player-plum.vercel.app/api/spotify" alt="Spotify ahora en reproducción" /> 
   </a> 
-    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" /> 
+    
 </div>
 
 ---
