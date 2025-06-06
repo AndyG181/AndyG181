@@ -248,6 +248,7 @@ Last Edited on: 26/02/2025
 📄 &nbsp;Puedes ver mi [CV](https://drive.google.com/file/d/1g7vmAsE4A285GILEyUVwJUkOhSvKLbdk/view?usp=sharing) o mi [Porfolio Web](https://kenneth-mendoza-porfolio.netlify.app) para más detalles.
 
 ---
+<--
 
 ## Spotify Reproduciendo 🎧 
 <div style="display: flex; align-items: center; justify-content: space-between;"> 
@@ -257,6 +258,7 @@ Last Edited on: 26/02/2025
     
 </div>
 
+-->
 ---
 
 
