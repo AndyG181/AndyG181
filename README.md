@@ -129,7 +129,7 @@
 
  </div>
 
--->
+
  
  ### 📈 Activity Graph
  
@@ -152,7 +152,7 @@
 </div>
 
 ---
-
+-->
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
