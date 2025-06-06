@@ -19,10 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
-</p>
-
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
 🎓 &nbsp;Actualmente soy estudiante de Ingeniería de Computación en la Universidad Autónoma del Estado de México.\
@@ -35,9 +31,6 @@
 
 <div align="center">
 <!--
-   <h3> 👋🏽 みなさん、こんにちは。I'm Computer Engineering Student - Grad Soon  </h3>
-   <h4> reaching my goals and dreams with a beauti vibes </h4>
-<br>
 <pre>
   💻 Tech lover 🪐 Astronomy / Physics
   🧑‍💻 Code Linux Cloud Algorithms AI 
