@@ -36,6 +36,15 @@
   🐈 Michii 🍵 Matcha
 </pre>
 
+### 👨🏻‍💻 &nbsp;Sobre mí
+
+🎓 &nbsp;Actualmente soy estudiante de Ingeniería de Computación en la Universidad Autónoma del Estado de México.\
+💡 &nbsp;Me apasiona aprender nuevas tecnologías y resolver problemas creativamente.\
+🌱 &nbsp;Actualmente estoy mejorando mis habilidades como desarrollador FullStack.\
+✍️ &nbsp;En mi tiempo libre estudio idiomas o creo videojuegos como hobby.\
+📄 &nbsp;Puedes ver mi [CV](https://drive.google.com/file/d/1g7vmAsE4A285GILEyUVwJUkOhSvKLbdk/view?usp=sharing) o mi [Porfolio Web](https://kenneth-mendoza-porfolio.netlify.app) para más detalles.
+
+
 <br></br>
 <img src="./assets/rei_footer.gif" height="80">
 <br></br>
@@ -239,16 +248,9 @@ Last Edited on: 26/02/2025
 
 <img align="right" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" width="200" />
 
-### 👨🏻‍💻 &nbsp;Sobre mí
-
-🎓 &nbsp;Actualmente soy estudiante de Ingeniería de Computación en la Universidad Autónoma del Estado de México.\
-💡 &nbsp;Me apasiona aprender nuevas tecnologías y resolver problemas creativamente.\
-🌱 &nbsp;Actualmente estoy mejorando mis habilidades como desarrollador FullStack.\
-✍️ &nbsp;En mi tiempo libre estudio idiomas o creo videojuegos como hobby.\
-📄 &nbsp;Puedes ver mi [CV](https://drive.google.com/file/d/1g7vmAsE4A285GILEyUVwJUkOhSvKLbdk/view?usp=sharing) o mi [Porfolio Web](https://kenneth-mendoza-porfolio.netlify.app) para más detalles.
 
 ---
-<--
+<!--
 
 ## Spotify Reproduciendo 🎧 
 <div style="display: flex; align-items: center; justify-content: space-between;"> 
