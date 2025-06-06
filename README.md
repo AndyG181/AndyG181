@@ -21,8 +21,17 @@
   <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
 </p>
 
+### 👨🏻‍💻 &nbsp;Sobre mí
+
+🎓 &nbsp;Actualmente soy estudiante de Ingeniería de Computación en la Universidad Autónoma del Estado de México.\
+💡 &nbsp;Me apasiona aprender nuevas tecnologías y resolver problemas creativamente.\
+🌱 &nbsp;Actualmente estoy mejorando mis habilidades como desarrollador FullStack.\
+✍️ &nbsp;En mi tiempo libre estudio idiomas o creo videojuegos como hobby.\
+📄 &nbsp;Puedes ver mi [CV]() o mi [Porfolio Web]() para más detalles.
+
 ---
 
+<div align="center">
 <!--
    <h3> 👋🏽 みなさん、こんにちは。I'm Computer Engineering Student - Grad Soon  </h3>
    <h4> reaching my goals and dreams with a beauti vibes </h4>
@@ -37,13 +46,6 @@
 </pre>
 -->
    
-### 👨🏻‍💻 &nbsp;Sobre mí
-
-🎓 &nbsp;Actualmente soy estudiante de Ingeniería de Computación en la Universidad Autónoma del Estado de México.\
-💡 &nbsp;Me apasiona aprender nuevas tecnologías y resolver problemas creativamente.\
-🌱 &nbsp;Actualmente estoy mejorando mis habilidades como desarrollador FullStack.\
-✍️ &nbsp;En mi tiempo libre estudio idiomas o creo videojuegos como hobby.\
-📄 &nbsp;Puedes ver mi [CV](https://drive.google.com/file/d/1g7vmAsE4A285GILEyUVwJUkOhSvKLbdk/view?usp=sharing) o mi [Porfolio Web](https://kenneth-mendoza-porfolio.netlify.app) para más detalles.
 
 
 <br></br>
