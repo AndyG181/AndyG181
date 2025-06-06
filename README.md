@@ -46,12 +46,6 @@
 </pre>
 -->
    
-
-
-<br></br>
-<img src="./assets/rei_footer.gif" height="80">
-<br></br>
-
 <h4>My Stack</h4>
 
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,dart,flutter,html,css,js,matlab,r,unity"><br>
