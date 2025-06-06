@@ -23,7 +23,6 @@
 
 ---
 
-<div align="center">
 <!--
    <h3> 👋🏽 みなさん、こんにちは。I'm Computer Engineering Student - Grad Soon  </h3>
    <h4> reaching my goals and dreams with a beauti vibes </h4>
@@ -37,6 +36,7 @@
   🐈 Michii 🍵 Matcha
 </pre>
 -->
+   
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
 🎓 &nbsp;Actualmente soy estudiante de Ingeniería de Computación en la Universidad Autónoma del Estado de México.\
