@@ -46,6 +46,4 @@
 
 ------
 
-Credit: [Anderson Mendoza](https://github.com/andermendoza)
-
-Last Edited on: 26/09/2022
+Last Edited on: 06/06/2025
