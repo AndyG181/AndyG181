@@ -210,4 +210,55 @@ Last Edited on: 26/02/2025
 
 ------
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer;Full+Stack+Web+Developer;Freelancer;Languages%20|%20Video+game+development%20Enthusiastic;Always%20learning%20new%20things&center=true&width=600&height=45">
+  </a>
+</p>
+
+<div id="user-content-toc"> 
+  <ul align="center"> 
+    <summary>
+      <div>
+        <div style="width: 180px; height: 200px; overflow: hidden; display: inline-block;">
+          <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" 
+               style="margin-left: -50px; width: 150px;"/>
+        </div>
+        <h1 style="display: inline-block">Hola 👋, Soy Kenneth</h1>
+      </div>
+    </summary> 
+  </ul> 
+</div> 
+
+
+
+---
+
+<img align="right" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" width="200" />
+
+### 👨🏻‍💻 &nbsp;Sobre mí
+
+🎓 &nbsp;Actualmente soy estudiante de Ingeniería de Computación en la Universidad Autónoma del Estado de México.\
+💡 &nbsp;Me apasiona aprender nuevas tecnologías y resolver problemas creativamente.\
+🌱 &nbsp;Actualmente estoy mejorando mis habilidades como desarrollador FullStack.\
+✍️ &nbsp;En mi tiempo libre estudio idiomas o creo videojuegos como hobby.\
+📄 &nbsp;Puedes ver mi [CV](https://drive.google.com/file/d/1g7vmAsE4A285GILEyUVwJUkOhSvKLbdk/view?usp=sharing) o mi [Porfolio Web](https://kenneth-mendoza-porfolio.netlify.app) para más detalles.
+
+---
+
+## Spotify Reproduciendo 🎧 
+<div style="display: flex; align-items: center; justify-content: space-between;"> 
+  <a href="https://open.spotify.com/user/jncmt2h3ysef165nzkkw5brhy"> 
+    <img src="https://spotify-player-plum.vercel.app/api/spotify" alt="Spotify ahora en reproducción" /> 
+  </a> 
+    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200" /> 
+</div>
+
+---
+
+
+
 Last Edited on: 06/06/2025
